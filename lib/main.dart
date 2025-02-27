@@ -33,6 +33,7 @@ class splashScreenPageView extends StatefulWidget {
 class _splashScreenPageViewState extends State<splashScreenPageView> {
   final PageController _pageController = PageController(viewportFraction: 1.0);
 
+
   @override
   void initState() {
     super.initState();
