@@ -1,4 +1,4 @@
-# quotes2
+# quotes app and Taskify todo app
 
 A new Flutter project.
 
